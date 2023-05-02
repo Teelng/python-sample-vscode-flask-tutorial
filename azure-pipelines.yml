@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: agent computer
+  
 strategy:
   matrix:
     Python27:
