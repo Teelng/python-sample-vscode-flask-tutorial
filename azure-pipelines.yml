@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: agent computer
+pool: Agent computer
   
 strategy:
   matrix:
